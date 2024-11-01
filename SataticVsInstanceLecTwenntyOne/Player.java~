@@ -1,0 +1,11 @@
+public class Player
+{
+  public int run = 0;
+  
+  public void hit_four(){
+    run = run + 6;
+  }
+  public void hit_six(){
+    run = run + 6;
+  }
+}

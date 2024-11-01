@@ -1,0 +1,10 @@
+public class ABC
+{
+  public int temp;
+  public static int x = 4;
+  public ABC(int val){
+    temp = val;
+  }
+  public void method1(){
+  }
+}

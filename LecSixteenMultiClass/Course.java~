@@ -1,0 +1,7 @@
+public class Course
+{
+  public String code;
+  public String title;
+  
+  public course (String c,
+}
